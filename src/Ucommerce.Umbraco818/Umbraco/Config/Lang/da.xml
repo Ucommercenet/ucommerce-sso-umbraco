@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <language alias="da" intName="Danish" localName="dansk" lcid="6" culture="da-DK">
   <creator>
     <name>The Umbraco community</name>
@@ -108,7 +108,7 @@
      Yderlgiere understøttes også første niveau af stien efter domænet, f.eks. "Example.com/en" eller "/en". ]]></key>
     <key alias="inherit">Nedarv</key>
     <key alias="setLanguage">Sprog</key>
-    <key alias="setLanguageHelp"><![CDATA[Indstil sproget for noder under den aktuelle node,<br /> eller nedarv sprog fra forældre noder. Gælder også<br />
+    <key alias="setLanguageHelp"><![CDATA[Indstil sproget for noder under den aktuelle node,<br/> eller nedarv sprog fra forældre noder. Gælder også<br/>
       for den aktuelle node, medmindre et domæne nedenfor også indstiller et sprog.]]></key>
     <key alias="setDomains">Domæner</key>
   </area>
@@ -536,7 +536,7 @@
   </area>
   <area alias="dictionaryItem">
     <key alias="description"><![CDATA[
-      Rediger de forskellige sprogversioner for ordbogselementet '%0%' herunder.<br />Du tilføjer flere sprog under 'sprog' i menuen til venstre </key>
+      Rediger de forskellige sprogversioner for ordbogselementet '%0%' herunder.<br/>Du tilføjer flere sprog under 'sprog' i menuen til venstre </key>
       ]]></key>
     <key alias="displayName">Kulturnavn</key>
     <key alias="changeKeyError"><![CDATA[
@@ -557,8 +557,8 @@
     <key alias="manageIndexesDescription">Giver dig mulighed for at se detaljerne for hvert indeks og giver nogle værktøjer til styring af indeksørerne</key>
     <key alias="rebuildIndex">Genopbyg indeks</key>
     <key alias="rebuildIndexWarning"><![CDATA[
-        Dette vil medføre, at indekset genopbygges.<br />
-        Afhængigt af hvor meget indhold der er på dit website, kan det tage et stykke tid.<br />
+        Dette vil medføre, at indekset genopbygges.<br/>
+        Afhængigt af hvor meget indhold der er på dit website, kan det tage et stykke tid.<br/>
         Det anbefales ikke at genopbygge et indeks i perioder med høj websitetrafik eller når redaktører redigerer indhold.
      ]]>
     </key>
@@ -896,7 +896,7 @@
     <key alias="runwayInstalledText"><![CDATA[Du har fundamentet på plads. Vælg hvilke moduler du ønsker at installere ovenpå det.<br/>Dette er vores liste over anbefalede moduler. Kryds dem af du ønsker at installere eller se den <a href="#" onclick="toggleModules(); return false;" id="toggleModuleList">fulde liste af moduler</a>  ]]></key>
     <key alias="runwayOnlyProUsers">Kun anbefalet for erfarne brugere</key>
     <key alias="runwaySimpleSite">Jeg ønsker at begynder med et simpelt website</key>
-    <key alias="runwaySimpleSiteText"><![CDATA[<p>"Runway" er et simpelt website som stiller nogle basale dokumenttyper og skabeloner til rådighed. Installeringsprogrammet kan automatisk opsætte Runway for dig, men du kan nemt redigere, udvide eller fjerne det. Det er ikke nødvendigt og du kan sagtens bruge Umbraco uden. Men Runway tilbyder et fundament, som er baseret på 'Best Practices', som får dig igang hurtigere end nogensinde før. Hvis du vælger at installere Runway, kan du efter eget valg vælge de grundlæggende byggesten kaldet 'Runway Modules' til at forbedre dine Runway-sider.</p><p><small><em>Inkluderet med Runway:</em>Home Page, Getting Started page, Installing Modules page.<br /> <em>Valgfri Moduler:</em> Top Navigation, Sitemap, Contact, Gallery. </small></p>]]></key>
+    <key alias="runwaySimpleSiteText"><![CDATA[<p>"Runway" er et simpelt website som stiller nogle basale dokumenttyper og skabeloner til rådighed. Installeringsprogrammet kan automatisk opsætte Runway for dig, men du kan nemt redigere, udvide eller fjerne det. Det er ikke nødvendigt og du kan sagtens bruge Umbraco uden. Men Runway tilbyder et fundament, som er baseret på 'Best Practices', som får dig igang hurtigere end nogensinde før. Hvis du vælger at installere Runway, kan du efter eget valg vælge de grundlæggende byggesten kaldet 'Runway Modules' til at forbedre dine Runway-sider.</p><p><small><em>Inkluderet med Runway:</em>Home Page, Getting Started page, Installing Modules page.<br/> <em>Valgfri Moduler:</em> Top Navigation, Sitemap, Contact, Gallery. </small></p>]]></key>
     <key alias="runwayWhatIsRunway">Hvad er Runway</key>
     <key alias="step1">Skridt 1/5: Acceptér licens</key>
     <key alias="step2">Skridt 2/5: Database-konfiguration</key>
@@ -936,7 +936,7 @@
     <key alias="instruction">Log ind nedenfor</key>
     <key alias="signInWith">Log ind med</key>
     <key alias="timeout">Din session er udløbet</key>
-    <key alias="bottomText"><![CDATA[<p style="text-align:right;">&copy; 2001 - %0% <br /><a href="https://umbraco.com" style="text-decoration: none" target="_blank" rel="noopener">umbraco.com</a></p> ]]></key>
+    <key alias="bottomText"><![CDATA[<p style="text-align:right;">&copy; 2001 - %0% <br/><a href="https://umbraco.com" style="text-decoration: none" target="_blank" rel="noopener">umbraco.com</a></p> ]]></key>
     <key alias="forgottenPassword">Glemt adgangskode?</key>
     <key alias="forgottenPasswordInstruction">En e-mail vil blive sendt til den angivne adresse med et link til at nulstille din adgangskode</key>
     <key alias="requestPasswordResetConfirmation">En e-mail med instruktioner for nulstilling af adgangskoden vil blive sendt til den angivne adresse, hvis det matcher vores optegnelser</key>
@@ -987,8 +987,8 @@ Mange hilsner fra Umbraco robotten
     <key alias="mailBodyHtml"><![CDATA[<p>Hej %0%</p>
     <p>Dette er en automatisk mail for at informere dig om at opgaven <strong>'%1%'</strong>
     er blevet udførtpå siden <a href="http://%4%/#/content/content/edit/%5%"><strong>'%2%'</strong></a> af brugeren <strong>'%3%'</strong> </p>
-    <div style="margin: 8px 0; padding: 8px; display: block;"> <br />
-    <a style="color: white; font-weight: bold; background-color: #5372c3; text-decoration : none; margin-right: 20px; border: 8px solid #5372c3; width: 150px;" href="http://%4%/#/content/content/edit/%5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RET&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> &nbsp; <br /> </div> <p> <h3>Opdateringssammendrag:</h3> <table style="width: 100%;"> %6% </table> </p> <div style="margin: 8px 0; padding: 8px; display: block;"> <br /> <a style="color: white; font-weight: bold; background-color: #66cc66; text-decoration : none; margin-right: 20px; border: 8px solid #66cc66; width: 150px;" href="http://%4%/actions/publish.aspx?id=%5%">&nbsp;&nbsp;PUBLISÉR&nbsp;&nbsp;</a> &nbsp; <a style="color: white; font-weight: bold; background-color: #5372c3; text-decoration : none; margin-right: 20px; border: 8px solid #5372c3; width: 150px;" href="http://%4%/#/content/content/edit/%5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RET&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> &nbsp; <a style="color: white; font-weight: bold; background-color: #ca4a4a; text-decoration : none; margin-right: 20px; border: 8px solid #ca4a4a; width: 150px;" href="http://%4%/actions/delete.aspx?id=%5%">&nbsp;&nbsp;&nbsp;&nbsp;SLET&nbsp;&nbsp;&nbsp;&nbsp;</a> <br /> </div> <p>Hav en fortsat god dag!<br /><br /> De bedste hilsner fra Umbraco robotten </p>]]></key>
+    <div style="margin: 8px 0; padding: 8px; display: block;"> <br/>
+    <a style="color: white; font-weight: bold; background-color: #5372c3; text-decoration : none; margin-right: 20px; border: 8px solid #5372c3; width: 150px;" href="http://%4%/#/content/content/edit/%5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RET&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> &nbsp; <br/> </div> <p> <h3>Opdateringssammendrag:</h3> <table style="width: 100%;"> %6% </table> </p> <div style="margin: 8px 0; padding: 8px; display: block;"> <br/> <a style="color: white; font-weight: bold; background-color: #66cc66; text-decoration : none; margin-right: 20px; border: 8px solid #66cc66; width: 150px;" href="http://%4%/actions/publish.aspx?id=%5%">&nbsp;&nbsp;PUBLISÉR&nbsp;&nbsp;</a> &nbsp; <a style="color: white; font-weight: bold; background-color: #5372c3; text-decoration : none; margin-right: 20px; border: 8px solid #5372c3; width: 150px;" href="http://%4%/#/content/content/edit/%5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RET&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> &nbsp; <a style="color: white; font-weight: bold; background-color: #ca4a4a; text-decoration : none; margin-right: 20px; border: 8px solid #ca4a4a; width: 150px;" href="http://%4%/actions/delete.aspx?id=%5%">&nbsp;&nbsp;&nbsp;&nbsp;SLET&nbsp;&nbsp;&nbsp;&nbsp;</a> <br/> </div> <p>Hav en fortsat god dag!<br/><br/> De bedste hilsner fra Umbraco robotten </p>]]></key>
     <key alias="mailSubject">[%0%] Notificering om %1% udført på %2%</key>
     <key alias="notifications">Notificeringer</key>
   </area>
@@ -1119,7 +1119,7 @@ Mange hilsner fra Umbraco robotten
     <key alias="nodePublish">%0% er nu publiceret</key>
     <key alias="nodePublishAll">%0% og alle undersider er nu publiceret</key>
     <key alias="publishAll">Publicér alle undersider</key>
-    <key alias="publishHelp"><![CDATA[Klik <em>ok</em> for at udgive <strong>%0%</strong> og derved gøre indholdet offentligt tilgængeligt..<br/><br /> Du kan udgive denne side og dens undersider ved at klikke <em>Udgiv alle undersider</em> forneden]]></key>
+    <key alias="publishHelp"><![CDATA[Klik <em>ok</em> for at udgive <strong>%0%</strong> og derved gøre indholdet offentligt tilgængeligt..<br/><br/> Du kan udgive denne side og dens undersider ved at klikke <em>Udgiv alle undersider</em> forneden]]></key>
   </area>
   <area alias="colorpicker">
     <key alias="noColors">Du har ikke konfigureret nogen godkendte farver</key>
@@ -1168,7 +1168,7 @@ Mange hilsner fra Umbraco robotten
     <key alias="created">Oprettet</key>
     <key alias="headline">Vælg en version at sammenligne med den nuværende version</key>
     <key alias="currentVersion">Nuværende version</key>
-    <key alias="diffHelp"><![CDATA[Her vises forskellene mellem den nuværende version og den valgte version<br /><del>Rød</del> tekst vil ikke blive vist i den valgte version. <ins>Grøn betyder tilføjet</ins>]]></key>
+    <key alias="diffHelp"><![CDATA[Her vises forskellene mellem den nuværende version og den valgte version<br/><del>Rød</del> tekst vil ikke blive vist i den valgte version. <ins>Grøn betyder tilføjet</ins>]]></key>
     <key alias="documentRolledBack">Dokument tilbagerullet</key>
     <key alias="htmlHelp">Her vises den valgte version som html. Hvis du ønsker at se forskellen mellem de 2 versioner på samme tid, brug 'diff'-oversigten</key>
     <key alias="rollbackTo">Tilbagerulning til</key>
@@ -1235,7 +1235,7 @@ Mange hilsner fra Umbraco robotten
     <key alias="contentPublishedFailedByEvent">Udgivelsen blev annulleret af et 3. part tilføjelsesprogram</key>
     <key alias="contentTypeDublicatePropertyType">Property type eksisterer allerede</key>
     <key alias="contentTypePropertyTypeCreated">Egenskabstype oprettet</key>
-    <key alias="contentTypePropertyTypeCreatedText"><![CDATA[Navn: %0% <br /> DataType: %1%]]></key>
+    <key alias="contentTypePropertyTypeCreatedText"><![CDATA[Navn: %0% <br/> DataType: %1%]]></key>
     <key alias="contentTypePropertyTypeDeleted">Egenskabs type slettet</key>
     <key alias="contentTypeSavedHeader">Indholdstype gemt</key>
     <key alias="contentTypeTabCreated">Du har oprettet et faneblad</key>

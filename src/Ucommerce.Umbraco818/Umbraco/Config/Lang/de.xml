@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <language alias="de" intName="German (DE)" localName="Deutsch (DE)" lcid="7" culture="de-DE">
   <creator>
     <name>The Umbraco community</name>
@@ -512,8 +512,8 @@
     <key alias="rebuildIndex">Index erneuern</key>
     <key alias="rebuildIndexWarning">
       <![CDATA[
-      Dies erzeugt den Index neu.<br />
-      Abhängig von der Inhaltsmenge Ihrer <em>Website</em> kann das eingie Zeit dauern.<br />
+      Dies erzeugt den Index neu.<br/>
+      Abhängig von der Inhaltsmenge Ihrer <em>Website</em> kann das eingie Zeit dauern.<br/>
       Es wird davon abgeraten, einen Index einer <em>Website</em> während hoher Auslastung- oder Inhaltbearbeitungszeiten zu erneuern.
      ]]>
     </key>
@@ -803,7 +803,7 @@
         <![CDATA[
       <p>Die angegebene Datenbank ist leider nicht erreichbar. Bitte prüfen Sie die Verbindungszeichenfolge ("Connection String") in der "web.config"-Datei.</p>
       <p>Um fortzufahren, passen Sie bitte die "web.config"-Datei mit einem beliebigen Text-Editor an. Scrollen Sie dazu nach unten, fügen Sie die Verbindungszeichenfolge für die zuverbindende Datenbank als Eintrag "UmbracoDbDSN" hinzu und speichern Sie die Datei.</p>
-      <p>Klicken Sie nach erfolgter Anpassung auf <strong>Wiederholen</strong>.<br />Wenn Sie weitere technische Informationen benötigen, besuchen Sie <a href="https://our.umbraco.com/wiki" target="_blank" rel="noopener">The Umbraco documentation wik</a>.</p>
+      <p>Klicken Sie nach erfolgter Anpassung auf <strong>Wiederholen</strong>.<br/>Wenn Sie weitere technische Informationen benötigen, besuchen Sie <a href="https://our.umbraco.com/wiki" target="_blank" rel="noopener">The Umbraco documentation wik</a>.</p>
     ]]>
     </key>
     <key alias="databaseText">Um diesen Schritt abzuschließen, müssen Sie die notwendigen Informationen zur Datenbankverbindung angeben.&lt;br /&gt;Bitte kontaktieren Sie Ihren Provider bzw. Server-Administrator für weitere Informationen.</key>
@@ -933,7 +933,7 @@
 					<table style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
 						<tr>
 							<td background="https://umbraco.com/umbraco/assets/img/application/logo.png" bgcolor="#1d1333" width="28" height="28" valign="top" style="font-family: sans-serif; font-size: 14px; vertical-align: top;">
-								<!--[if gte mso 9]> <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:30px;height:30px;"> <v:fill type="tile" src="https://umbraco.com/umbraco/assets/img/application/logo.png" color="#1d1333" /> <v:textbox inset="0,0,0,0"> <![endif]-->
+								<!--[if gte mso 9]> <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:30px;height:30px;"> <v:fill type="tile" src="https://umbraco.com/umbraco/assets/img/application/logo.png" color="#1d1333"/> <v:textbox inset="0,0,0,0"> <![endif]-->
 								<div> </div>
 								<!--[if gte mso 9]> </v:textbox> </v:rect> <![endif]-->
 							</td>
@@ -1050,7 +1050,7 @@
 					<table style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
 						<tr>
 							<td background="https://umbraco.com/umbraco/assets/img/application/logo.png" bgcolor="#1d1333" width="28" height="28" valign="top" style="font-family: sans-serif; font-size: 14px; vertical-align: top;">
-								<!--[if gte mso 9]> <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:30px;height:30px;"> <v:fill type="tile" src="https://umbraco.com/umbraco/assets/img/application/logo.png" color="#1d1333" /> <v:textbox inset="0,0,0,0"> <![endif]-->
+								<!--[if gte mso 9]> <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:30px;height:30px;"> <v:fill type="tile" src="https://umbraco.com/umbraco/assets/img/application/logo.png" color="#1d1333"/> <v:textbox inset="0,0,0,0"> <![endif]-->
 								<div> </div>
 								<!--[if gte mso 9]> </v:textbox> </v:rect> <![endif]-->
 							</td>
@@ -1094,8 +1094,8 @@
 													%6%
 												</p>
 												<p style='color: #392F54; font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0 0 15px;'>
-													Einen schönen Tag wünscht<br />
-													<br />
+													Einen schönen Tag wünscht<br/>
+													<br/>
 													Ihr freundlicher Umbraco-Robot
 												</p>
 											</td>
@@ -1128,7 +1128,7 @@
     <key alias="createPackage">Neues Paket</key>
     <key alias="chooseLocalPackageText">
       <![CDATA[
-        Wählen Sie ein Paket auf Ihrem lokalen Computer über "Datei auswählen" aus. <br />
+        Wählen Sie ein Paket auf Ihrem lokalen Computer über "Datei auswählen" aus. <br/>
     Umbraco-Pakete besitzen üblicherweise die Dateiendungen ".umb" oder ".zip".
       ]]>
     </key>
@@ -1138,7 +1138,7 @@
     <key alias="orClickHereToUpload">oder hier klicken, um die Paket-Datei auszuwählen</key>
     <key alias="uploadPackage">Paket hochladen</key>
     <key alias="localPackageDescription">
-      Wählen Sie ein Paket auf Ihrem lokalen Computer über "Datei auswählen" aus. <br />
+      Wählen Sie ein Paket auf Ihrem lokalen Computer über "Datei auswählen" aus. <br/>
       Installieren Sie nur Pakete von Quellen, denen Sie vertrauen.
     </key>
     <key alias="uploadAnother">Ein weiteres Paket hochladen</key>
@@ -1210,7 +1210,7 @@
     <key alias="packageUninstallHeader">Paket deinstallieren</key>
     <key alias="packageUninstallText">
       <![CDATA[Sie können einzelne Elemente, die Sie nicht deinstallieren möchten, unten abwählen. 
-    Wenn Sie "Deinstallation bestätigen" klicken, werden alle markierten Elemente entfernt.<br />
+    Wenn Sie "Deinstallation bestätigen" klicken, werden alle markierten Elemente entfernt.<br/>
     <span style="color: Red; font-weight: bold;">Achtung:</span> alle Dokumente, Medien, etc, die von den zu entfernenden Elementen abhängen, 
     werden nicht mehr funktionieren und im Zweifelsfall kann dass gesamte CMS instabil werden. 
     Bitte deinstallieren Sie also mit Vorsicht. Falls Sie unsicher sind, kontaktieren Sie den Autor des Pakets.]]>
@@ -1944,7 +1944,7 @@
 					<table style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
 						<tr>
 							<td background="https://umbraco.com/umbraco/assets/img/application/logo.png" bgcolor="#1d1333" width="28" height="28" valign="top" style="font-family: sans-serif; font-size: 14px; vertical-align: top;">
-								<!--[if gte mso 9]> <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:30px;height:30px;"> <v:fill type="tile" src="https://umbraco.com/umbraco/assets/img/application/logo.png" color="#1d1333" /> <v:textbox inset="0,0,0,0"> <![endif]-->
+								<!--[if gte mso 9]> <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:30px;height:30px;"> <v:fill type="tile" src="https://umbraco.com/umbraco/assets/img/application/logo.png" color="#1d1333"/> <v:textbox inset="0,0,0,0"> <![endif]-->
 								<div> </div>
 								<!--[if gte mso 9]> </v:textbox> </v:rect> <![endif]-->
 							</td>

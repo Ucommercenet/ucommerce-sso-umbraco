@@ -5,7 +5,6 @@ using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Notifications;
 using Microsoft.Owin.Security.OpenIdConnect;
 using Owin;
-using Umbraco.Core;
 using Umbraco.Web.Security;
 
 namespace Ucommerce.Umbraco818.Extensions
@@ -35,7 +34,7 @@ namespace Ucommerce.Umbraco818.Extensions
             {
                 ClientId = clientId,
                 ClientSecret = clientSecret,
-                SignInAsAuthenticationType = Constants.Security.BackOfficeExternalAuthenticationType,
+                SignInAsAuthenticationType = Umbraco.Core.Constants.Security.BackOfficeExternalAuthenticationType,
                 AuthenticationType = authority,
                 Authority = authority,
                 RedirectUri = redirectUri,

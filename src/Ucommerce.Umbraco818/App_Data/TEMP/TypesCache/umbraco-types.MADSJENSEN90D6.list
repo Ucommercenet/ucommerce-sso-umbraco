@@ -92,16 +92,36 @@ Umbraco.Core.Migrations.Upgrade.V_8_0_0.ContentVariationMigration, Umbraco.Core,
 Umbraco.Core.Migrations.Upgrade.V_8_0_0.DataTypes.PreValueMigratorComposer, Umbraco.Core, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Core.Logging.Viewer.LogViewerComposer, Umbraco.Core, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Core.Services.Implement.KeyValueService+InitializeMigration, Umbraco.Core, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.SampleSite.InstallPackageAction, Umbraco.SampleSite, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.SampleSite.StarterKitComposer, Umbraco.SampleSite, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.SampleSite.StarterKitInstallComposer, Umbraco.SampleSite, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.SampleSite.Controllers.LessonsController, Umbraco.SampleSite, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.ModelsBuilder.Embedded.ModelsBuilderDashboard, Umbraco.ModelsBuilder.Embedded, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.ModelsBuilder.Embedded.Compose.ModelsBuilderComposer, Umbraco.ModelsBuilder.Embedded, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.ModelsBuilder.Embedded.BackOffice.MediaTypeModelValidator, Umbraco.ModelsBuilder.Embedded, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.ModelsBuilder.Embedded.BackOffice.MemberTypeModelValidator, Umbraco.ModelsBuilder.Embedded, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.ModelsBuilder.Embedded.BackOffice.ModelsBuilderDashboardController, Umbraco.ModelsBuilder.Embedded, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.ModelsBuilder.Embedded.BackOffice.ContentTypeModelValidator, Umbraco.ModelsBuilder.Embedded, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
+Umbraco.SampleSite.InstallPackageAction, Umbraco.SampleSite, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+Umbraco.SampleSite.StarterKitComposer, Umbraco.SampleSite, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+Umbraco.SampleSite.StarterKitInstallComposer, Umbraco.SampleSite, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+Umbraco.SampleSite.Controllers.LessonsController, Umbraco.SampleSite, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.CopyFile, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.DeleteDirectory, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.DeleteFile, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.DownloadFileWeb, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.EnableActiveSearchProvider, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.ExtractFileFromArchive, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.FileBackup, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.InitializeObjectFactory, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.InstallDatabasePackageAction, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.InstallRewriteRules, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.MergeConfig, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.MergeLanguageText, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.ModifyRequestLength, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.MoveDirectory, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.MoveDirectoryIfTargetExists, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.MoveFileIfDoesntExist, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.RenameConfigDefaultFilesToConfigFiles, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.uCommMoveFile, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.UpdateUcommerceDatabaseAssemblyVersion, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Our.Umbraco.OsmMaps.ValueConverters.OsmMapsValueConverter, Our.Umbraco.OsmMaps, Version=1.2.6992.19752, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.Controllers.UmbProfileController, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.Controllers.UmbLoginStatusController, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.Controllers.UmbRegisterController, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
@@ -311,7 +331,9 @@ Umbraco.Web.Cache.MemberGroupCacheRefresher, Umbraco.Web, Version=8.0.0.0, Cultu
 Umbraco.Web.Cache.PublicAccessCacheRefresher, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.Cache.TemplateCacheRefresher, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.Cache.UserCacheRefresher, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
-Our.Umbraco.OsmMaps.ValueConverters.OsmMapsValueConverter, Our.Umbraco.OsmMaps, Version=1.2.6992.19752, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.UcommerceComponentComposer, Ucommerce.Umbraco8, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Sections.SectionsComposer, Ucommerce.Umbraco8, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Sections.UcommerceDashboard, Ucommerce.Umbraco8, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
 
 Umbraco.Core.Composing.IComposer
 
@@ -322,9 +344,9 @@ Umbraco.Core.Compose.RelateOnTrashComposer, Umbraco.Core, Version=8.0.0.0, Cultu
 Umbraco.Core.Runtime.CoreInitialComposer, Umbraco.Core, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Core.Migrations.Upgrade.V_8_0_0.DataTypes.PreValueMigratorComposer, Umbraco.Core, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Core.Logging.Viewer.LogViewerComposer, Umbraco.Core, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
+Umbraco.ModelsBuilder.Embedded.Compose.ModelsBuilderComposer, Umbraco.ModelsBuilder.Embedded, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.SampleSite.StarterKitComposer, Umbraco.SampleSite, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.SampleSite.StarterKitInstallComposer, Umbraco.SampleSite, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.ModelsBuilder.Embedded.Compose.ModelsBuilderComposer, Umbraco.ModelsBuilder.Embedded, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.SignalR.PreviewHubComposer, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.Runtime.WebInitialComposer, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.Runtime.WebFinalComposer, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
@@ -344,6 +366,8 @@ Umbraco.Web.Compose.NotificationsComposer, Umbraco.Web, Version=8.0.0.0, Culture
 Umbraco.Web.Compose.PublicAccessComposer, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.Compose.NestedContentPropertyComposer, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.Cache.DistributedCacheBinderComposer, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.UcommerceComponentComposer, Ucommerce.Umbraco8, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Sections.SectionsComposer, Ucommerce.Umbraco8, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
 
 Umbraco.Core.PropertyEditors.IPropertyValueConverter
 
@@ -368,6 +392,7 @@ Umbraco.Core.PropertyEditors.ValueConverters.TextStringValueConverter, Umbraco.C
 Umbraco.Core.PropertyEditors.ValueConverters.TinyMceValueConverter, Umbraco.Core, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Core.PropertyEditors.ValueConverters.UploadPropertyConverter, Umbraco.Core, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Core.PropertyEditors.ValueConverters.YesNoValueConverter, Umbraco.Core, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
+Our.Umbraco.OsmMaps.ValueConverters.OsmMapsValueConverter, Our.Umbraco.OsmMaps, Version=1.2.6992.19752, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.PropertyEditors.ValueConverters.BlockListPropertyValueConverter, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.PropertyEditors.ValueConverters.MediaPickerWithCropsValueConverter, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.PropertyEditors.ValueConverters.MultiUrlPickerValueConverter, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
@@ -381,7 +406,6 @@ Umbraco.Web.PropertyEditors.ValueConverters.ContentPickerValueConverter, Umbraco
 Umbraco.Web.PropertyEditors.ValueConverters.MarkdownEditorValueConverter, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.PropertyEditors.ValueConverters.TextStringValueConverter, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.PropertyEditors.ValueConverters.RteMacroRenderingValueConverter, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
-Our.Umbraco.OsmMaps.ValueConverters.OsmMapsValueConverter, Our.Umbraco.OsmMaps, Version=1.2.6992.19752, Culture=neutral, PublicKeyToken=null
 
 Umbraco.Web.Mvc.PluginController
 
@@ -396,8 +420,8 @@ Umbraco.Web.Mvc.RenderMvcController, Umbraco.Web, Version=8.0.0.0, Culture=neutr
 
 Umbraco.Web.WebApi.UmbracoApiController
 
-Umbraco.SampleSite.Controllers.LessonsController, Umbraco.SampleSite, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.ModelsBuilder.Embedded.BackOffice.ModelsBuilderDashboardController, Umbraco.ModelsBuilder.Embedded, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
+Umbraco.SampleSite.Controllers.LessonsController, Umbraco.SampleSite, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.Trees.LogViewerTreeController, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.Trees.FilesTreeController, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.Trees.ContentBlueprintTreeController, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
@@ -492,6 +516,7 @@ Umbraco.Web.Dashboards.ProfilerDashboardDashboard, Umbraco.Web, Version=8.0.0.0,
 Umbraco.Web.Dashboards.PublishedStatusDashboard, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.Dashboards.RedirectUrlDashboard, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Web.Dashboards.SettingsDashboard, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Sections.UcommerceDashboard, Ucommerce.Umbraco8, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
 
 Umbraco.Core.PropertyEditors.IDataEditor
 
@@ -561,6 +586,25 @@ Umbraco.Core.PackageActions.IPackageAction
 Umbraco.Core.PackageActions.AllowDoctype, Umbraco.Core, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Core.PackageActions.PublishRootDocument, Umbraco.Core, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.SampleSite.InstallPackageAction, Umbraco.SampleSite, Version=4.1.0.0, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.CopyFile, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.DeleteDirectory, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.DeleteFile, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.DownloadFileWeb, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.EnableActiveSearchProvider, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.ExtractFileFromArchive, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.FileBackup, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.InitializeObjectFactory, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.InstallDatabasePackageAction, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.InstallRewriteRules, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.MergeConfig, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.MergeLanguageText, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.ModifyRequestLength, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.MoveDirectory, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.MoveDirectoryIfTargetExists, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.MoveFileIfDoesntExist, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.RenameConfigDefaultFilesToConfigFiles, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.uCommMoveFile, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
+Ucommerce.Umbraco8.Installer.PackageActions.UpdateUcommerceDatabaseAssemblyVersion, Ucommerce.Umbraco8.Installer, Version=9.6.3.22332, Culture=neutral, PublicKeyToken=null
 
 Umbraco.Web.Trees.ISearchableTree
 
@@ -620,7 +664,4 @@ Umbraco.Web.HealthCheck.Checks.Config.CompilationDebugCheck, Umbraco.Web, Versio
 Umbraco.Web.HealthCheck.NotificationMethods.IHealthCheckNotificationMethod
 
 Umbraco.Web.HealthCheck.NotificationMethods.EmailNotificationMethod, Umbraco.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null
-
-Umbraco.Core.Deploy.IServiceConnector
-
 
